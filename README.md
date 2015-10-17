@@ -15,7 +15,7 @@ Visit GitHub page (link provided below):
 
 ##Link to GitHub Pages
 
-*
+http://jackwaibel.github.io/ping-pong/ 
 
 ##Legal
 
